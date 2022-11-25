@@ -27,7 +27,7 @@ I'm open to learn any other tools that can help me to grow up as a professional.
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
 ## Contact me :mailbox_with_no_mail:
- <a href="https://www.linkedin.com/in/donaldo-barraza-madrid-fullstackdeveloper/">
+ <a href="https://www.linkedin.com/in/donaldo-barraza-madrid-javascript-developer/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
  </a>
  <a href="mailto:donaldojbm7@gmail.com">
