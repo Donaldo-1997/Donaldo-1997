@@ -1,12 +1,19 @@
-# Hi, I'm Donaldo
+🚀 Full Stack Developer | Specialized in JavaScript and Flutter 📱
 
-Full-Stack Developer :robot:.
+Hello! I'm Donaldo, a passionate developer with experience building exceptional web and mobile apps using JavaScript and Flutter.
 
-- :earth_americas: I'm from Guamal, Magdalena - Colombia
-- :video_game: I like to play soccer ⚽
-- :gem: I love to customize everything
+💼 My services include:
+- Development of robust web applications with technologies such as React and Node.js.
+- Creation of cross-platform mobile applications using Flutter.
+- Performance and usability optimization to offer a first class user experience.
+- Maintenance and updating of existing applications.
+- Efficient management of version control with Git for monitoring and collaboration in projects.
+- Effective collaboration in agile teams to meet deadlines and deliver high-quality results.
 
-I'm open to learn any other tools that can help me to grow up as a professional. 🙌
+📈 My goal is to boost the success of your projects by implementing innovative and efficient technological solutions. 
+If you are looking for a committed, creative and results oriented developer, I am here to help you!
+
+📬 Contact me to explore how I can contribute to the success of your next tech adventure!
 
 **Apps and Tools:**  
 
@@ -27,9 +34,11 @@ I'm open to learn any other tools that can help me to grow up as a professional.
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
 ## Contact me :mailbox_with_no_mail:
- <a href="https://www.linkedin.com/in/donaldo-barraza-madrid-javascript-developer/">
+ <a href="https://www.linkedin.com/in/donaldo-barraza-madrid-full-stack-developer/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
  </a>
  <a href="mailto:donaldojbm7@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+
+
